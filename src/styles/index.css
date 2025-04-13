@@ -9,3 +9,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+.container {
+    color: lightgray;
+    font-size: large;
+}
+.to-do-container{
+    margin: auto;
+    list-style: none;
+    width: 60%;
+    color: black;
+    padding: 2%;
+}
+ul li{
+    border: 1px solid lightgrey;
+    padding: 5px;
+}
